@@ -15,3 +15,6 @@ Abra a pasta do projeto no VSCode arrastando a pasta, ou, navegue pelo terminal 
 Ainda no console, execute o comando "npm install".
 
 Agora, sempre que quiser iniciar a aplicação, basta executar o comando "npm run dev".
+
+Deploy do Back-end:
+https://api-foodexplorer-h7mm.onrender.com
