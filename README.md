@@ -2,6 +2,8 @@ Olá
 
 Este é o Back-End do FoodExplorer que é um projeto desenvolvido como o Desafio final da Trilha Explorer da RocketSeat.
 
+Tecnlogias utilizadas: Node.js, Axios, Bcrypt, SQLite, Multer e Express.
+
 Vou passar as informações de login do adm abaixo:
 login: Admin@admin.com
 senha: admin1234
